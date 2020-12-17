@@ -23,7 +23,7 @@ Peakseekers was developed for study purposes of its developer, Jonathan Felipe. 
 - TypeScript support
 
 
-### Built Using
+### Built using
 
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
