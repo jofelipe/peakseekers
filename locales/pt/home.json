@@ -1,0 +1,6 @@
+{
+    "title": "Home",
+    "errorShowStoriesTitle": "Erro ao exibir histórias :(",
+    "errorShowStoriesText": "Ouch, parece que nosso servidor caiu em uma greta. Por favor, tente novamente.",
+    "noMoreStories": "Sem mais histórias"
+}

@@ -1,0 +1,10 @@
+{
+    "title": "Settings",
+    "distanceUnit": "Distance measurement",
+    "meters": "Meters",
+    "feet": "Feet",
+    "about": "About",
+    "privacyPolicy": "Privacy Policy",
+    "reportError": "Report an error",
+    "logout": "Logout"
+}

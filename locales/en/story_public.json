@@ -1,0 +1,20 @@
+{
+    "editStory": "Edit",
+    "deleteStory": "Delete",
+    "storyNotFoundTitle": "Story not found",
+    "storyNotFoundText": "There was an error displaying this story. Check the URL and try again.",
+    "mountainElevation": "Elevation",
+    "mountainContinent": "Continent",
+    "mountainRange": "Range",
+    "mountainCountry": "Country",
+    "addToBucketlist": "Add to my bucketlist",
+    "addedToBucketlist": "Added to bucketlist",
+    "writtenBy": "Written by",
+    "deleteStoryModal": "Do you really want to delete your story? :(",
+    "deleteStoryYes": "Yes, delete my story",
+    "deleteStoryNo": "No, I want to keep it",
+    "shareStory": "Share this story",
+    "copyLink": "Copy story link",
+    "storiesShareText": "Download and share the image below on stories :)",
+    "storiesShareButton": "Download image"
+}

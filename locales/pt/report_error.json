@@ -1,0 +1,9 @@
+{
+    "title": "Reportar erro",
+    "description": "Achou um erro em nossa aplicação? Sinta-se livre para reportá-lo! Corrigiremos assim que possível ;)",
+    "namePlaceholder": "Nome",
+    "emailPlaceholder": "E-mail",
+    "pageUrlPlaceholder": "URL da página",
+    "descriptionPlaceholder": "Descrição",
+    "reportErrorButton": "Reportar erro"
+}

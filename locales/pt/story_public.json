@@ -1,0 +1,20 @@
+{
+    "editStory": "Editar",
+    "deleteStory": "Deletar",
+    "storyNotFoundTitle": "História não encontrada",
+    "storyNotFoundText": "Houve um erro ao exibir a história desejada. Confira a URL e tente novamente.",
+    "mountainElevation": "Elevação",
+    "mountainContinent": "Continente",
+    "mountainRange": "Cordilheira",
+    "mountainCountry": "País",
+    "addToBucketlist": "Adicionar à bucketlist",
+    "addedToBucketlist": "Adicionado à bucketlist",
+    "writtenBy": "Escrito por",
+    "deleteStoryModal": "Deseja realmente deletar sua história? :(",
+    "deleteStoryYes": "Sim, delete minha história",
+    "deleteStoryNo": "Não, desejo mantê-la",
+    "shareStory": "Compartilhe essa história",
+    "copyLink": "Copiar link da história",
+    "storiesShareText": "Baixe e compartilhe a imagem abaixo nos stories :)",
+    "storiesShareButton": "Baixar imagem"
+}

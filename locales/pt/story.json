@@ -1,0 +1,18 @@
+{
+    "title": "Escreva sua história",
+    "editorLoading": "Carregando...",
+    "removeImage": "Remover imagem",
+    "cropImage": "Clique para recortar a imagem",
+    "storySaved": "Salvo",
+    "publish": "Publicar",
+    "titlePlaceholder": "Título...",
+    "searchMountain": "Pesquisar montanha",
+    "addImages": "Adicionar imagens",
+    "storyPlaceholder": "Comece a digitar...",
+    "cropImageModalText": "Recorte sua imagem",
+    "cropImageModalButton": "Recortar",
+    "titleEdit": "Edite sua história",
+    "changeMountain": "Deseja alterar a montanha?",
+    "changeImages": "Deseja substituir as imagens?",
+    "publishEdit": "Atualizar"
+}

@@ -1,0 +1,6 @@
+{
+    "title": "Home",
+    "errorShowStoriesTitle": "Error when displaying stories :(",
+    "errorShowStoriesText": "Ouch, it looks like our server fell into a crevasse. Please, try again.",
+    "noMoreStories": "No more stories to show"
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Write your story",
+    "editorLoading": "Loading...",
+    "removeImage": "Remove image",
+    "cropImage": "Click to crop image",
+    "storySaved": "Saved",
+    "publish": "Publish",
+    "titlePlaceholder": "Title...",
+    "searchMountain": "Search mountain",
+    "addImages": "Add images",
+    "storyPlaceholder": "Start typing...",
+    "cropImageModalText": "Crop your image",
+    "cropImageModalButton": "Crop",
+    "titleEdit": "Edit your story",
+    "changeMountain": "Do you want to change the mountain?",
+    "changeImages": "Do you want to replace the images?",
+    "publishEdit": "Update"
+}

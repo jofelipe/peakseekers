@@ -1,0 +1,8 @@
+{
+    "profileNotFoundTitle": "Profile not found",
+    "profileNotFoundText": "There was an error displaying this profile. Check the URL and try again.",
+    "editProfile": "Edit profile",
+    "stories": "Stories",
+    "storiesSingular": "Story",
+    "noContent": "No stories yet..."
+}

@@ -1,0 +1,117 @@
+body {
+    background: #fefefe;
+    color: #252323;
+    font-family: 'Roboto', Arial, sans-serif;
+
+    --theme-one: #252323;
+    --theme-one-hover: #151414;
+
+    --theme-two: #4B4E58;
+    --theme-two-hover: #383B42;
+
+    --theme-three: #70798C;
+    --theme-three-hover: #646C7D;
+
+    --theme-four: #A7ACB8;
+    --theme-four-hover: #999FAD;
+
+    --theme-five: #DDDFE3;
+    --theme-five-hover: #C7CAD1;
+
+    --theme-six: #FEFEFE;
+    --theme-six-hover: #F5F5F5;
+
+    --theme-button: #70798C;
+    --theme-button-hover: #646C7D;
+
+    --theme-button-app: #70798C;
+    --theme-button-app-text: #70798C;
+
+    --theme-logo-one: #4B4E58;
+    --theme-logo-two: #70798C;
+    --theme-logo-three: #DDDFE3;
+    
+    --theme-gold: #EB8D01;
+
+    --theme-error: #E63946;
+    --theme-error-hover: #DA1B2B;
+
+    --theme-modal: rgba(112,121,140, .9);
+    --theme-modal-window: #fff;
+    --theme-modal-text: #70798C;
+    --theme-modal-border: #DDDFE3;
+    --theme-modal-button: #70798C;
+    --theme-modal-button-hover: #646C7D;
+
+    --theme-success: #2A9D8F;
+    --theme-mountains-one: #F6F4F4;
+    --theme-mountains-two: #F2F2F2;
+    --theme-no-content: #A7ACB8;
+    --theme-privacy: #FAFAFA;
+    --theme-skeleton: #ccc;
+    --theme-add-images: #F0F0F0;
+    --theme-story-photos: #DDDFE3;
+}
+
+body.dark {
+    background: #252323;
+    color: #fefefe;
+
+    --theme-one: #FEFEFE;
+    --theme-one-hover: #F5F5F5;
+
+    --theme-two: #DDDFE3;
+    --theme-two-hover: #C7CAD1;
+
+    --theme-three: #A7ACB8;
+    --theme-three-hover: #999FAD;
+
+    --theme-four: #70798C;
+    --theme-four-hover: #646C7D;
+
+    --theme-five: #4B4E58;
+    --theme-five-hover: #383B42;
+
+    --theme-six: #252323;
+    --theme-six-hover: #201E1E;
+
+    --theme-button: #4B4E58;
+    --theme-button-hover: #383B42;
+
+    --theme-button-app: #70798C;
+    --theme-button-app-text: #A7ACB8;
+
+    --theme-logo-one: #A7ACB8;
+    --theme-logo-two: #A7ACB8;
+    --theme-logo-three: #252323;
+
+    --theme-modal: rgba(37,35,35, .9);
+    --theme-modal-window: #4B4E58;
+    --theme-modal-text: #A7ACB8;
+    --theme-modal-border: #70798C;
+    --theme-modal-button: #70798C;
+    --theme-modal-button-hover: #646C7D;
+
+    --theme-mountains-one: #393939;
+    --theme-mountains-two: #545B6B;
+    --theme-no-content: #4B4E58;
+    --theme-privacy: #272727;
+    --theme-skeleton: #353333;
+    --theme-add-images: #343537;
+    --theme-story-photos: #343537;
+}
+
+body.dark .react-loading-skeleton { background-color: #333; background-image: linear-gradient( 90deg, #333, #393939, #333 ) }
+
+:focus { outline: 0 !important; box-shadow: none !important }
+
+svg { max-width: 100%; max-height: 100%; display: block }
+
+.bottom-sheet-bg { background: var(--theme-modal) !important }
+.bottom-sheet { position: absolute; width: 100%; left: 0; bottom: 0 }
+.bottom-sheet-close { width: 70px; height: 5px; background: var(--theme-four); position: absolute; right: 0; left: 0; margin: auto; top: 10px; z-index: 10; border: 0; border-radius: 5px }
+
+@media (min-width: 960px) {
+    .bottom-sheet { position: static; width: auto }
+    .bottom-sheet-close { display: none }
+}

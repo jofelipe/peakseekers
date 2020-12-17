@@ -1,0 +1,18 @@
+{
+    "title": "Account",
+    "updatePic": "Update profile pic",
+    "inputNamePlaceholder": "Type your name",
+    "inputEmailPlaceholder": "Type your email",
+    "nationality": "Nationality",
+    "oldPassword": "Current password",
+    "password": "New password",
+    "confirmPassword": "Confirm new password",
+    "buttonUpdateProfile": "Update profile",
+    "deleteAccountButton": "Delete account",
+    "deleteAccountTitle": "Do you really want to delete your account? :(",
+    "deleteAccountText": "This will remove all of your data on the platform.",
+    "deleteAccountYes": "Yes, delete my account",
+    "deleteAccountNo": "No, I want to stay",
+    "cropImageModalText": "Crop your image",
+    "cropImageModalButton": "Update"
+}

@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/instagram.png",
+            "destination": "/api/instagram"
+        }
+    ]
+}

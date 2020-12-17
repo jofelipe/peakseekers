@@ -1,0 +1,18 @@
+{
+    "title": "Minha conta",
+    "updatePic": "Atualizar imagem de perfil",
+    "inputNamePlaceholder": "Digite seu nome",
+    "inputEmailPlaceholder": "Digite seu e-mail",
+    "nationality": "Nacionalidade",
+    "oldPassword": "Senha atual",
+    "password": "Nova senha",
+    "confirmPassword": "Confirmar nova senha",
+    "buttonUpdateProfile": "Atualizar perfil",
+    "deleteAccountButton": "Deletar conta",
+    "deleteAccountTitle": "Deseja realmente deletar sua conta? :(",
+    "deleteAccountText": "Isso apagará todos seus dados na plataforma.",
+    "deleteAccountYes": "Sim, delete minha conta",
+    "deleteAccountNo": "Não, eu quero ficar",
+    "cropImageModalText": "Recorte sua imagem",
+    "cropImageModalButton": "Atualizar"
+}

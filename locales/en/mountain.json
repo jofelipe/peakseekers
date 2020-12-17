@@ -1,0 +1,12 @@
+{
+    "mountainNotFoundTitle": "Mountain not found",
+    "mountainNotFoundText": "There was an error displaying this mountain. Check the URL and try again.",
+    "addToBucketlist": "Add to my bucketlist",
+    "addedToBucketlist": "Added to bucketlist",
+    "elevation": "Elevation",
+    "visitGoogleMaps": "Visit on Google Maps",
+    "topStory": "Top story",
+    "sourceFrom": "Source from",
+    "sourceFromAnd": "and",
+    "reportError": "Report an error"
+}

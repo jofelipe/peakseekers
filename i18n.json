@@ -1,0 +1,26 @@
+{
+    "allLanguages": ["en", "pt"],
+    "defaultLanguage": "en",
+    "currentPagesDir": "pages_",
+    "finalPagesDir": "pages",
+    "localesPath": "locales",
+    "pages": {
+        "*": ["common"],
+        "/": ["index"],
+        "/account": ["account"],
+        "/settings": ["settings"],
+        "/story": ["story"],
+        "/edit": ["story"],
+        "/[username]/[slug]": ["story_public"],
+        "/[username]": ["profile"],
+        "/mountains/[slug]": ["mountain"],
+        "/home": ["home"],
+        "/discover": ["discover"],
+        "/about": ["about"],
+        "/privacy-policy": ["privacy_policy"],
+        "/terms-conditions": ["terms_conditions"],
+        "/notifications": ["notifications"],
+        "/report-error": ["report_error"],
+        "/password/reset": ["reset_password"]
+    }
+}

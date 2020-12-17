@@ -1,0 +1,22 @@
+module.exports = {
+    siteUrl: 'https://peakseekers.app/',
+    generateRobotsTxt: true,
+    exclude: [
+        '/password/reset',
+        '/account',
+        '/discover',
+        '/edit',
+        '/home',
+        '/notifications',
+        '/settings',
+        '/story',
+        '/pt/password/reset',
+        '/pt/account',
+        '/pt/discover',
+        '/pt/edit',
+        '/pt/home',
+        '/pt/notifications',
+        '/pt/settings',
+        '/pt/story',
+    ],
+};
