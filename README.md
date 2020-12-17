@@ -1,4 +1,4 @@
-# Peakseekers
+# ⛰ Peakseekers
 
 <p align="center">
   <img width="550" height="125" src="https://user-images.githubusercontent.com/1819244/102510966-fd925680-4066-11eb-8406-d376419c4bce.png">
